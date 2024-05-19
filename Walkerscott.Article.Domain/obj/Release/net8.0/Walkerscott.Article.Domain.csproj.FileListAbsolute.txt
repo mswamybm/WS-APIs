@@ -1,0 +1,11 @@
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\bin\Release\net8.0\Walkerscott.Article.Domain.deps.json
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\bin\Release\net8.0\Walkerscott.Article.Domain.dll
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\bin\Release\net8.0\Walkerscott.Article.Domain.pdb
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\Walkerscott.Article.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\Walkerscott.Article.Domain.AssemblyInfoInputs.cache
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\Walkerscott.Article.Domain.AssemblyInfo.cs
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\Walkerscott.Article.Domain.csproj.CoreCompileInputs.cache
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\Walkerscott.Article.Domain.dll
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\refint\Walkerscott.Article.Domain.dll
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\Walkerscott.Article.Domain.pdb
+C:\Code\Walkerscott.Article\Walkerscott.Article.Domain\obj\Release\net8.0\ref\Walkerscott.Article.Domain.dll

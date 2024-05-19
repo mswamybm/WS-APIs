@@ -1,0 +1,15 @@
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\bin\Release\net8.0\Wlkerscott.Article.Application.deps.json
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\bin\Release\net8.0\Wlkerscott.Article.Application.dll
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\bin\Release\net8.0\Wlkerscott.Article.Application.pdb
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\bin\Release\net8.0\Walkerscott.Article.Domain.dll
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\bin\Release\net8.0\Walkerscott.Article.Domain.pdb
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkerscott.Article.Application.csproj.AssemblyReference.cache
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkerscott.Article.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkerscott.Article.Application.AssemblyInfoInputs.cache
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkerscott.Article.Application.AssemblyInfo.cs
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkerscott.Article.Application.csproj.CoreCompileInputs.cache
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkersco.B68940B0.Up2Date
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkerscott.Article.Application.dll
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\refint\Wlkerscott.Article.Application.dll
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\Wlkerscott.Article.Application.pdb
+C:\Code\Walkerscott.Article\Wlkerscott.Article.Application\obj\Release\net8.0\ref\Wlkerscott.Article.Application.dll

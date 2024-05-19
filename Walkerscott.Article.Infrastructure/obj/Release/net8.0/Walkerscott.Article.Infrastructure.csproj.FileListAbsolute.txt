@@ -1,0 +1,17 @@
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\bin\Release\net8.0\Walkerscott.Article.Infrastructure.deps.json
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\bin\Release\net8.0\Walkerscott.Article.Infrastructure.runtimeconfig.json
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\bin\Release\net8.0\Walkerscott.Article.Infrastructure.dll
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\bin\Release\net8.0\Walkerscott.Article.Infrastructure.pdb
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\bin\Release\net8.0\Walkerscott.Article.Domain.dll
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\bin\Release\net8.0\Walkerscott.Article.Domain.pdb
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.csproj.AssemblyReference.cache
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.AssemblyInfo.cs
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkersc.1DCE272E.Up2Date
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.dll
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\refint\Walkerscott.Article.Infrastructure.dll
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.pdb
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\Walkerscott.Article.Infrastructure.genruntimeconfig.cache
+C:\Code\Walkerscott.Article\Walkerscott.Article.Infrastructure\obj\Release\net8.0\ref\Walkerscott.Article.Infrastructure.dll
